@@ -107,8 +107,6 @@ section h3 {
 section p, li {
   color: #333;
 }
-
-/* ======== TABLES ======== */
 table {
   width: 100%;
   border-collapse: collapse;
